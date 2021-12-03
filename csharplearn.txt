@@ -1,0 +1,4 @@
+https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/6kac2kdh(v=vs.100)
+https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/hyz69czz(v=vs.100)
+https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/3e8s7xdd(v=vs.100)
+https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/5s8ee185(v=vs.100)
