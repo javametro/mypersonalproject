@@ -1,0 +1,1 @@
+Get-NetAdapter | Where-Object {$_.Status -eq "Disabled"} | Where-Object {$_.Name.StartsWith("イーサネット")} | Enable-NetAdapter
